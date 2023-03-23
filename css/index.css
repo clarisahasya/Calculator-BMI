@@ -1,0 +1,50 @@
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.cal{
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+}
+
+.icon {
+    width: 1%;
+    border: 1px solid gray;
+}
+
+.top-right{
+    /* margin: 10px 10px 10px 10px; */
+    padding: 10px;
+}
+
+.bottom-right{
+    padding: 10px;
+}
+
+img{
+    width: 15%;
+}
+
+
+
+.container calc{
+    padding: 10px;
+}
+
+body{
+    /* margin: auto; */
+    /* padding: 10px; */
+    display: flex;
+    height:100%;
+    /* align-content: center; */
+    column-count: 2;
+}
+
+.calculator{
+    padding: 20px;
+}
+
+.hasil{
+    padding: 20px;
+}
